@@ -1,4 +1,4 @@
-package com.kzdev.infinitescroll
+gitpackage com.kzdev.infinitescroll
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
